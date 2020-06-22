@@ -1,7 +1,3 @@
 # Dimension reduction workshop
 
-This workshop will introduce researchers to dimension reduction in the context of biological data.
-
-List of libraries and dependencies goes here
-
-List of data sources goes here
+This workshop was created by Alex Diaz-Papkovich for the McGill initiative in Computational Medicine (MiCM). It will introduce researchers to dimension reduction in the context of biological data.
